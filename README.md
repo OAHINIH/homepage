@@ -9,7 +9,8 @@ Here is my [CV](/Zhouzhou_Gu_CV.pdf)
 
 
 ### Education
-**2018-present Peking University**, B.Sc in Physics, B.A in Arts
+**2018-present Peking University**, B.Sc in Physics, B.A in Economics.
+
 
 
 ## Research
