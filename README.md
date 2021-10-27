@@ -8,6 +8,10 @@ Mail: <zzgu@pku.edu.cn>
 Here is my [CV](/Zhouzhou_Gu_CV.pdf)
 
 
+### Education
+**2018-present Peking University**, B.Sc in Physics, B.A in Arts
+
+
 ## Research
   
 [Talend Allocation and Hierarchical firm crosssections](Talent.pdf), with Wenyi.  
