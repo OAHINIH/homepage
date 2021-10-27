@@ -7,7 +7,7 @@ I'm currently a fourth-year undergraduate student fron Peking University, School
 
 Mail: <zzgu@pku.edu.cn>
 
-Here is my [CV][Zhouzhou_Gu_CV.pdf]
+Here is my [CV][/Zhouzhou_Gu_CV.pdf]
 
 You can use the [editor on GitHub](https://github.com/OAHINIH/homepage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
