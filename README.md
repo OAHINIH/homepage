@@ -1,3 +1,4 @@
+<font theme="times">
 ## Welcome to Zhouzhou's Homepage!
 
 I'm currently a fourth undergraduate student fron Peking University, School of Physics. My research interest is mainly focused on contract theory, corporate finance and macroeconomics.
@@ -33,6 +34,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OAHINIH/homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  
+  </font>
 
 ### Support or Contact
 
