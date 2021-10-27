@@ -5,6 +5,9 @@
 I'm currently a fourth-year undergraduate student fron Peking University, School of Physics. My research interest is mainly focused on contract theory, corporate finance and macroeconomics.
 </font>
 
+Mail: [zzgu@pku.edu.cn](zzgu@pku.edu.cn)
+
+
 You can use the [editor on GitHub](https://github.com/OAHINIH/homepage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
