@@ -1,4 +1,5 @@
-<font theme="times">
+<font face="times">
+
 ## Welcome to Zhouzhou's Homepage!
 
 I'm currently a fourth undergraduate student fron Peking University, School of Physics. My research interest is mainly focused on contract theory, corporate finance and macroeconomics.
