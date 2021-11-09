@@ -15,7 +15,9 @@ Here is my [CV](/Zhouzhou_Gu_CV.pdf)
 
 ## Research
   
-[Talend Allocation and Hierarchical firm crosssections](), with Wenyi, _forthcoming_, Haidian Economic Review. _Draft available upon requrest_. 
+[Talend Allocation and Hierarchical firm crosssections](), with [Wenyi](), _Draft available upon requrest_. 
+
+A model of Online Platform and Open Source Community, with [Wenyi]().
 
 Housing, Land Provision and Economic Growth.
 
