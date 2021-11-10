@@ -1,12 +1,14 @@
 
 ## Welcome to Zhouzhou's Homepage!
 
-I'm currently a fourth-year undergraduate student fron Peking University, School of Physics. My research interest is mainly focused on contract theory, corporate finance and macroeconomics. I'm a prospective Ph.D. applicant currently focusing on Economics (Industrial Organization, Dynamic Contract & Macroeconomics); Finance (Corporate Finance & Financial Intermediaries)
+I'm currently a fourth-year undergraduate student fron Peking University, School of Physics and a prospective Ph.D. applicant.
   
 Mail: <zzgu@pku.edu.cn>
 
-Here is my [CV](/Zhouzhou_Gu_CV.pdf)
+Here is my [CV](/CV_Online.pdf)
 
+### Research Interest
+Macroeconomics, Corporate Finance, Financial Frictions
 
 ### Education
 **2018-present Peking University**, B.Sc in Physics, B.A in Economics.
