@@ -23,6 +23,9 @@ A model of Online Platform and Open Source Community, with [Wenyi](https://wenyi
 
 Housing, Land Provision and Economic Growth.
 
+## Discussion
+[Frims' entry and exit](/life_cycle.pdf)
+
 ## Awards
 19th Asian Physics Olympiad, Gold Medal.
 
