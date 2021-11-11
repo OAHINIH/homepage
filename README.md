@@ -26,7 +26,7 @@ Housing, Land Provision and Economic Growth.
 ## Discussion
 [Frims' entry and exit](/life_cycle.pdf)
 
-[Discussion on LCP solver and Heterogenous Agent Model in Continuous-Time]()
+[Discussion on LCP solver and Heterogenous Agent Model in Continuous-Time](/LCP_1995_note.pdf)
 
 ## Awards
 19th Asian Physics Olympiad, Gold Medal.
