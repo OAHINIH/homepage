@@ -28,7 +28,7 @@ Housing, Land Provision and Economic Growth.
 
 [Discussion on LCP solver and Heterogenous Agent Model in Continuous-Time](/LCP_1995_note.pdf)
 
-[Upwind finite difference (Phys vs Econ)](/Upwind Derivative vs Downwind Derivative.pdf)
+[Upwind finite difference Phys vs Econ](/Upwind Derivative vs Downwind Derivative.pdf)
 
 ## Awards
 19th Asian Physics Olympiad, Gold Medal.
