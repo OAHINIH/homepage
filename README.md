@@ -31,6 +31,7 @@ Housing, Land Provision and Economic Growth.
 [Upwind finite difference Phys vs Econ](/Upwind.pdf)
 
 [Additional Proofs of Miao and Zhang (2013)](/Additional_proof_Miao_Zhang_2013.pdf)
+
 _I am not quite sure the original method applies if $G^X_t$ is not differentiable somewhere._
 ## Awards
 19th Asian Physics Olympiad, Gold Medal.
