@@ -36,8 +36,11 @@ Housing, Land Provision and Economic Growth.
 
 ## Awards
 Benz Scholarship, 2021.
+
 Peking University First Prize Scholarship, 2020.
+
 19th Asian Physics Olympiad, Gold Medal, 2018.
+
 34th Chinese Physics Olympiad, Gold Medal (Selected to Chinese National Training Team and National Team), 2017.
 
 <!--
