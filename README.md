@@ -32,9 +32,13 @@ Housing, Land Provision and Economic Growth.
 
 [Additional Proofs of Miao and Zhang (2013)](/Additional_proof_Miao_Zhang_2013.pdf)
 
-_I am not quite sure the original method applies if $G^X_t$ is not differentiable somewhere._
+<!--_I am not quite sure the original method applies if $G^X_t$ is not differentiable somewhere._-->
+
 ## Awards
-19th Asian Physics Olympiad, Gold Medal.
+Benz Scholarship, 2021.
+Peking University First Prize Scholarship, 2020.
+19th Asian Physics Olympiad, Gold Medal, 2018.
+34th Chinese Physics Olympiad, Gold Medal (Selected to Chinese National Training Team and National Team), 2017.
 
 <!--
 
