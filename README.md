@@ -8,7 +8,7 @@ Mail: <zzgu@pku.edu.cn>
 Here is my [CV](/CV_Online.pdf)
 
 ### Research Interest
-Macroeconomics, Corporate Finance, Financial Frictions
+Macroeconomics, Corporate Finance, Dynamic Contract
 
 ### Education
 **2018-present Peking University**, B.Sc in Physics, B.A in Economics.
