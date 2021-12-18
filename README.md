@@ -16,8 +16,9 @@ Macroeconomics, Corporate Finance, Dynamic Contract
 
 
 ## Research
-  
-[Talend Allocation and Hierarchical firm crosssections](), with [Wenyi](https://wenyiyin.github.io/), _Draft available upon requrest_. 
+IPO's Spill-over Effect: Competition for Innovation,  with [Wenyi](https://wenyiyin.github.io/).
+
+Talend Allocation and Hierarchical firm crosssections, with [Wenyi](https://wenyiyin.github.io/), _Draft available upon requrest_. 
 
 A model of Online Platform and Open Source Community, with [Wenyi](https://wenyiyin.github.io/), _Draft Coming Soon_.
 
