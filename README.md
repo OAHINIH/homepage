@@ -19,7 +19,7 @@ Macroeconomics, Corporate Finance, Financial Frictions
   
 [Talend Allocation and Hierarchical firm crosssections](), with [Wenyi](https://wenyiyin.github.io/), _Draft available upon requrest_. 
 
-A model of Online Platform and Open Source Community, with [Wenyi](https://wenyiyin.github.io/).
+A model of Online Platform and Open Source Community, with [Wenyi](https://wenyiyin.github.io/), _Draft Coming Soon_.
 
 Housing, Land Provision and Economic Growth.
 
