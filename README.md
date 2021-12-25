@@ -1,4 +1,3 @@
-
 ## Welcome to Zhouzhou's Homepage!
 
 I'm currently a fourth-year undergraduate student fron Peking University, School of Physics and a prospective Ph.D. applicant.
@@ -24,7 +23,7 @@ A model of Online Platform and Open Source Community, with [Wenyi](https://wenyi
 
 Housing, Land Provision and Economic Growth.
 
-## Discussion
+## Discussion and Notes
 [Frims' entry and exit](/life_cycle.pdf)
 
 [Discussion on LCP solver and Heterogenous Agent Model in Continuous-Time](/LCP_1995_note.pdf)
@@ -32,6 +31,8 @@ Housing, Land Provision and Economic Growth.
 [Upwind finite difference Phys vs Econ](/Upwind.pdf)
 
 [Additional Proofs of Miao and Zhang (2013)](/Additional_proof_Miao_Zhang_2013.pdf)
+
+Note on Dynamic Corporate Finance Theory and Estimation.
 
 <!--_I am not quite sure the original method applies if $G^X_t$ is not differentiable somewhere._-->
 
