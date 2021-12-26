@@ -17,7 +17,6 @@ Macroeconomics, Corporate Finance, Dynamic Contract
 ## Research
 IPO's Spill-over Effect: Competition for Innovation,  with [Wenyi](https://wenyiyin.github.io/).
 
-<!-- Talend Allocation and Hierarchical firm crosssections, with [Wenyi](https://wenyiyin.github.io/), _Draft available upon requrest_. !-->
 
 A model of Online Platform and Open Source Community, with [Wenyi](https://wenyiyin.github.io/), _Draft Coming Soon_.
 
@@ -32,7 +31,7 @@ Housing, Land Provision and Economic Growth.
 
 [Additional Proofs of Miao and Zhang (2013)](/Additional_proof_Miao_Zhang_2013.pdf)
 
-Note on Dynamic Corporate Finance Theory and Estimation.
+[Note on Dynamic Corporate Finance Theory and Estimation](Note_dynamic.pdf)
 
 <!--_I am not quite sure the original method applies if $G^X_t$ is not differentiable somewhere._-->
 
