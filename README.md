@@ -4,7 +4,7 @@ I'm currently a fourth-year undergraduate student fron Peking University, School
   
 Mail: <zzgu@pku.edu.cn>
 
-Here is my [CV](/CV_Online.pdf)
+Here is my [CV](homepage/CV_Online.pdf)
 
 ### Research Interest
 Macroeconomics, Corporate Finance, Dynamic Contract
