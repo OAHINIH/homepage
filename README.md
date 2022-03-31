@@ -25,9 +25,9 @@ Housing, Land Provision and Economic Growth.
 ## Discussion and Notes
 [Frims' entry and exit](/life_cycle.pdf)
 
-<!--[Discussion on LCP solver and Heterogenous Agent Model in Continuous-Time](/LCP_1995_note.pdf)-->
+<!--[Discussion on LCP solver and Heterogenous Agent Model in Continuous-Time](/LCP_1995_note.pdf)
+[Additional Proofs of Miao and Zhang (2013)](/Additional_proof_Miao_Zhang_2013.pdf)-->
 
-[Additional Proofs of Miao and Zhang (2013)](/Additional_proof_Miao_Zhang_2013.pdf)
 
 
 [Upwind finite difference Phys vs Econ](/Upwind.pdf)
