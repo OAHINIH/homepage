@@ -7,7 +7,7 @@ Mail: <zzgu@pku.edu.cn>
 Here is my [CV](homepage/CV_Online.pdf)
 
 ### Research Interest
-Macroeconomics, Corporate Finance, Dynamic Contract
+Macroeconomics, Finance, Dynamic Contract
 
 ### Education
 **2018-present Peking University**, B.Sc in Physics, B.A in Economics.
@@ -25,13 +25,14 @@ Housing, Land Provision and Economic Growth.
 ## Discussion and Notes
 [Frims' entry and exit](/life_cycle.pdf)
 
-[Discussion on LCP solver and Heterogenous Agent Model in Continuous-Time](/LCP_1995_note.pdf)
-
-[Upwind finite difference Phys vs Econ](/Upwind.pdf)
+<!--[Discussion on LCP solver and Heterogenous Agent Model in Continuous-Time](/LCP_1995_note.pdf)-->
 
 [Additional Proofs of Miao and Zhang (2013)](/Additional_proof_Miao_Zhang_2013.pdf)
 
-[Note on Dynamic Corporate Finance Theory and Estimation](Note_dynamic.pdf)
+
+[Upwind finite difference Phys vs Econ](/Upwind.pdf)
+
+[Note on Dynamic Corporate Finance Theory and Estimation](/Note_dynamic.pdf)
 
 <!--_I am not quite sure the original method applies if $G^X_t$ is not differentiable somewhere._-->
 
