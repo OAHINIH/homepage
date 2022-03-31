@@ -1,6 +1,6 @@
 ## Welcome to Zhouzhou's Homepage!
 
-I'm currently a fourth-year undergraduate student fron Peking University, School of Physics and a prospective Ph.D. applicant.
+I'm currently a fourth-year undergraduate student fron Peking University, School of Physics.
   
 Mail: <zzgu@pku.edu.cn>
 
