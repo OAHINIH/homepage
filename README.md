@@ -1,6 +1,6 @@
 ## Welcome to Zhouzhou's Homepage!
 
-I'm currently a fourth-year undergraduate student fron Peking University, School of Physics.
+I'm currently a fourth-year undergraduate student fron Peking University, School of Physics. I'll join Princeton's Bendheim Center for Finance as a Senior Research Specialist this autumn.
   
 Mail: <zzgu@pku.edu.cn>
 
@@ -10,7 +10,7 @@ Here is my [CV](homepage/CV_Online.pdf)
 Macroeconomics, Finance, Dynamic Contract
 
 ### Education
-**2018-present Peking University**, B.Sc in Physics, B.A in Economics.
+**2018-2022 Peking University**, B.Sc in Physics, B.A in Economics.
 
 
 
